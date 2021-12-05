@@ -11,7 +11,7 @@ Now checkout the sample repository on your `node-0` via:
 
 ```sh
 [centos@node-0 ~]$ cd
-[centos@node-0 ~]$ git clone --branch v1.0.0 https://github.com/hulk0301/example-app-backend.git
+[centos@node-0 ~]$ git clone --branch v1.0.0 https://github.com/stephan-weihrauch/example-app-backend.git
 [centos@node-0 ~]$ cd example-app-backend
 [centos@node-0 example-app-backend]$
 ```
@@ -60,7 +60,7 @@ Now checkout the sample repository on your `node-0` via:
 
 ```sh
 [centos@node-0 ~]$ cd
-[centos@node-0 ~]$ git clone --branch v1.0.0 https://github.com/hulk0301/example-app-frontend.git
+[centos@node-0 ~]$ git clone --branch v1.0.0 https://github.com/stephan-weihrauch/example-app-frontend.git
 [centos@node-0 ~]$ cd example-app-frontend
 [centos@node-0 example-app-frontend]$
 ```
